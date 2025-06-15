@@ -2,4 +2,4 @@
 
 - [Binomialverteilung](./binomialverteilung/binomialverteilung.ipynb)
 
-- [Testen mit der Binomialverteilung](./binomialverteilung/test_binomialverteilung.ipynb)jupyt
+- [Testen mit der Binomialverteilung](./binomialverteilung/test_binomialverteilung.ipynb)

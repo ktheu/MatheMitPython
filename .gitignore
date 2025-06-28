@@ -1,4 +1,10 @@
 _alt/
 .ipynb_checkpoints/
 __pycache__/
-rm 
+*checkpoint.ipynb
+*checkpoint.png
+# Jupyter Notebook checkpoints
+# Jupyter Notebook metadata 
+
+# Jupyter Notebook configuration
+.ipynb_checkpoints/

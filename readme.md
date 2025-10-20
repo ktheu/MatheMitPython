@@ -1,6 +1,6 @@
 ### Mathe mit Python
 
-- [Cheetsheet](cheatSheet.ipynb)
+- [Cheatsheet](https://github.com/ktheu/MatheMitPython/blob/main/cheatSheet.ipynb)
 
 -----
 
@@ -8,6 +8,8 @@
 - [Binomialverteilung](./binomialverteilung/binomialverteilung.ipynb)
 
 - [Testen mit der Binomialverteilung](./binomialverteilung/test_binomialverteilung.ipynb)
+
+- [2D-Geometrie](./2d_geometrie/2d_geometrie.ipynb)
 
 ------
 
